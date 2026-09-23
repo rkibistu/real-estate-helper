@@ -13,3 +13,10 @@ Now we have details about some different announcements. More url's and data can 
 5. I am gonna call agents/owners when an announcement get deleted/closed and i am gonna complete some manual info about the announcement: if it was rented/sold or not, the price they agreed on, other fields we think later, and some notes
 
 Later i want to be able to filter by different params i care about: maybe price, maybe location, etc.
+
+
+Design:
+- i don t care what stack we use. I want a clear UI
+- i will keep my db locally. I want to be sure i don t break it while developing (manually or with ai)
+- everything will be local. It is gonna be on my laptop
+- i want it to be very easy to start and stop. I am okay with docker, but not a must
