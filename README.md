@@ -20,3 +20,5 @@ Design:
 - i will keep my db locally. I want to be sure i don t break it while developing (manually or with ai)
 - everything will be local. It is gonna be on my laptop
 - i want it to be very easy to start and stop. I am okay with docker, but not a must
+
+I don;t want to over complicate things. I want something simple and clear and to start soon using it.
